@@ -2,10 +2,13 @@
 Welcome to our full-stack MERN project! This project is built using the MERN stack, which consists of MongoDB, Express.js, React, and Node.js. It is a complete end-to-end application that includes both the client-side and server-side code.
 
 
+Create your own MongoDB account and connect your IDE to the MongoDB server to deploy the rest of the code.
+
 To run the project, first clone the repository to your local machine. Then, navigate to the project directory and run npm install to install all the necessary dependencies like Node modules. It can be done using command "npm -i npx". Once the dependencies are installed, you can start the server using npm run start. This will start the server on http://localhost:5000.
 
 
 To start the client-side, navigate to the client directory and run npm install to install all the necessary dependencies. Then, run npm start to start the client on http://localhost:3000.
+
 
 
 This project includes several features such as user authentication, CRUD operations, and more. The server-side code is built using Node.js and Express.js, which provides a robust and flexible framework for building web applications. The database used is MongoDB, which is a popular NoSQL database that provides scalability and flexibility for our application.
