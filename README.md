@@ -14,7 +14,7 @@ This project includes several features such as user authentication, CRUD operati
 The client-side code is built using React, which is a popular JavaScript library for building user interfaces. The project includes several React components, which can be easily customized and reused. The project also uses Redux for state management, which provides a predictable and centralized way to manage application state.
 
 
-React Drop Zone is used for file upload and ReactRouter is used for Navigation
+React Drop Zone is used for file upload and ReactRouter is used for Navigation.
 
 
 The project includes user authentication, which allows users to sign up and log in to the application. This feature is implemented using JSON Web Tokens (JWT), which provide a secure and efficient way to authenticate users. The project also includes CRUD operations for creating, reading, updating, and deleting data. These operations are implemented using RESTful APIs, which provide a standardized way to interact with the server.
